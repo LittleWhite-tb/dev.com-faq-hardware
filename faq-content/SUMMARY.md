@@ -20,6 +20,10 @@ auteurs:
       fullname: Alexandre Laurent
       url: https://www.developpez.net/forums/u240267/littlewhite/
       role: auteur
+    - name: Chrtophe
+      fullname: Chrtophe
+      url: https://www.developpez.net/forums/u449691/chrtophe/
+      role: auteur
 
 editeur:
     edversion: Version 2.45
@@ -61,7 +65,7 @@ licence: CC-BY-SA-4.0
 - [Qu'est ce qu'un MBR (Master Boot Record) ?](section-002-001/002.q002.md)
 - [Comment initialiser son BIOS (CMOS) ?](section-002-001/002.q003.md)
 - [Comment remédier aux messages d'erreur du BIOS ?](section-002-001/002.q004.md)
-- [Que faire en cas de bip ou de messages d'erreurs au démarrage ?](section-002-001/002.q005.md)
+- [Que faire en cas de bip, de LED clignotante ou de messages d'erreurs au démarrage ?](section-002-001/002.q005.md)
 - [Que faire en cas de "KB/INTERFACE ERROR" au démarrage ?](section-002-001/002.q006.md)
 - [Qu'est ce que UEFI ?](section-002-001/002.q007.md)
 
@@ -70,10 +74,12 @@ licence: CC-BY-SA-4.0
 - [Quelle est la différence entre un processeur Pentium 4 et autre Core Duo ?](section-002-002/002.q001.md)
 - [Quelle différence entre un processeur Pentium 4 et un Celeron ?](section-002-002/002.q002.md)
 - [Qu'est ce que l'overclocking ?](section-002-002/002.q003.md)
+- [Quelle différence entre un processeur Intel et un processeur AMD ?](section-002-002/002.q004.md)
 
 ### RAM
 
 - [Quelle est la différence entre la SDRAM et la DDRAM ?](section-002-003/002.q001.md)
+- [Qu'est ce qu'une mémoire NAND ?](section-002-003/002.q002.md)
 
 ## Disque dur
 
@@ -90,11 +96,14 @@ licence: CC-BY-SA-4.0
 - [Qu'est ce que la stratégie RAID 10 ?](section-003/003.q011.md)
 - [Qu'est ce que la stratégie RAID F1 ?](section-003/003.q012.md)
 - [Qu'est ce que la stratégie JBOD ?](section-003/003.q013.md)
+- [Qu'est ce qu'un disque SSD ?](section-003/003.q014.md)
+- [Qu'est ce qu'un disque M.2 ?](section-003/003.q015.md)
 
 ## Réseau
 
 - [Quelle est la différence entre Hub et Switch ?](section-004/004.q001.md)
 - [Quelle est la différence entre un switch managé et non managé ?](section-004/004.q002.md)
+- [Qu'est-ce que le POE ?](section-004/004.q003.md)
 
 ## Divers
 
