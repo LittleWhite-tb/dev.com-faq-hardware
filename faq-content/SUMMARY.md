@@ -108,11 +108,16 @@ licence: CC-BY-SA-4.0
 - [Quels câbles faut t-il pour de l'Ethernet 5 Gbps/s ?](004/004.q005.md)
 - [Quels câbles faut t-il pour de l'Ethernet 10 Gbps/s ?](004/004.q006.md)
 
+## Connectiques
+
+- [Quels sont les débits des connectiques USB ?](005/005.q001.md)
+- [Quels sont les débits des connectiques Thunderbolt ?](005/005.q002.md)
+
 ## Divers
 
-- [Dois-je enlever la batterie de mon PC portable lorsque ce celui-ci est connecté au secteur?](005/005.q001.md)
-- [Qu'est ce qu'un micrologiciel et à quoi sert-il ?](005/005.q002.md)
-- [Quels sont les différents types d'écran existants ?](005/005.q003.md)
-- [Comment nettoyer un écran plasma ?](005/005.q004.md)
-- [Comment changer l'affectation d'une touche du clavier par une autre ?](005/005.q005.md)
-- [Que faire en cas de "Power Calibration Error" durant une gravure ?](005/005.q006.md)
+- [Dois-je enlever la batterie de mon PC portable lorsque ce celui-ci est connecté au secteur?](006/005.q001.md)
+- [Qu'est ce qu'un micrologiciel et à quoi sert-il ?](006/005.q002.md)
+- [Quels sont les différents types d'écran existants ?](006/005.q003.md)
+- [Comment nettoyer un écran plasma ?](006/005.q004.md)
+- [Comment changer l'affectation d'une touche du clavier par une autre ?](006/005.q005.md)
+- [Que faire en cas de "Power Calibration Error" durant une gravure ?](006/005.q006.md)
