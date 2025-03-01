@@ -55,61 +55,61 @@ licence: CC-BY-SA-4.0
 
 ## Informations générales
 
-- [Comment bien utiliser cette FAQ ?](section-001/001.q001.md)
-- [Comment participer à cette FAQ ?](section-001/001.q002.md)
-- [Remerciements](section-001/001.q003.md)
+- [Comment bien utiliser cette FAQ ?](001/001.q001.md)
+- [Comment participer à cette FAQ ?](001/001.q002.md)
+- [Remerciements](001/001.q003.md)
 
 ### Amorçage
 
-- [Qu'est ce qu'un programme d'amorçage ?](section-002-001/002.q001.md)
-- [Qu'est ce qu'un MBR (Master Boot Record) ?](section-002-001/002.q002.md)
-- [Comment initialiser son BIOS (CMOS) ?](section-002-001/002.q003.md)
-- [Comment remédier aux messages d'erreur du BIOS ?](section-002-001/002.q004.md)
-- [Que faire en cas de bip, de LED clignotante ou de messages d'erreurs au démarrage ?](section-002-001/002.q005.md)
-- [Que faire en cas de "KB/INTERFACE ERROR" au démarrage ?](section-002-001/002.q006.md)
-- [Qu'est ce que UEFI ?](section-002-001/002.q007.md)
+- [Qu'est ce qu'un programme d'amorçage ?](002-001/002.q001.md)
+- [Qu'est ce qu'un MBR (Master Boot Record) ?](002-001/002.q002.md)
+- [Comment initialiser son BIOS (CMOS) ?](002-001/002.q003.md)
+- [Comment remédier aux messages d'erreur du BIOS ?](002-001/002.q004.md)
+- [Que faire en cas de bip, de LED clignotante ou de messages d'erreurs au démarrage ?](002-001/002.q005.md)
+- [Que faire en cas de "KB/INTERFACE ERROR" au démarrage ?](002-001/002.q006.md)
+- [Qu'est ce que UEFI ?](002-001/002.q007.md)
 
 ### Processeur
 
-- [Quelle est la différence entre un processeur Pentium 4 et autre Core Duo ?](section-002-002/002.q001.md)
-- [Quelle différence entre un processeur Pentium 4 et un Celeron ?](section-002-002/002.q002.md)
-- [Qu'est ce que l'overclocking ?](section-002-002/002.q003.md)
-- [Quelle différence entre un processeur Intel et un processeur AMD ?](section-002-002/002.q004.md)
+- [Quelle est la différence entre un processeur Pentium 4 et autre Core Duo ?](002-002/002.q001.md)
+- [Quelle différence entre un processeur Pentium 4 et un Celeron ?](002-002/002.q002.md)
+- [Qu'est ce que l'overclocking ?](002-002/002.q003.md)
+- [Quelle différence entre un processeur Intel et un processeur AMD ?](002-002/002.q004.md)
 
 ### RAM
 
-- [Quelle est la différence entre la SDRAM et la DDRAM ?](section-002-003/002.q001.md)
-- [Qu'est ce qu'une mémoire NAND ?](section-002-003/002.q002.md)
+- [Quelle est la différence entre la SDRAM et la DDRAM ?](002-003/002.q001.md)
+- [Qu'est ce qu'une mémoire NAND ?](002-003/002.q002.md)
 
 ## Disque dur
 
-- [Quelle est la différence entre SATA et IDE ?](section-003/003.q001.md)
-- [Comment booter sur le deuxième disque dur IDE ?](section-003/003.q002.md)
-- [Comment formater un disque dur ?](section-003/003.q003.md)
-- [Comment résoudre le problème d'un disque dur "SATA" non reconnu ?](section-003/003.q004.md)
-- [Comment effectuer un transfert de disque dur à disque dur ?](section-003/003.q005.md)
-- [Qu'est ce qu'un RAID ?](section-003/003.q006.md)
-- [Qu'est ce que la stratégie RAID 0 ?](section-003/003.q007.md)
-- [Qu'est ce que la stratégie RAID 1 ?](section-003/003.q008.md)
-- [Qu'est ce que la stratégie RAID 5 ?](section-003/003.q009.md)
-- [Qu'est ce que la stratégie RAID 6 ?](section-003/003.q010.md)
-- [Qu'est ce que la stratégie RAID 10 ?](section-003/003.q011.md)
-- [Qu'est ce que la stratégie RAID F1 ?](section-003/003.q012.md)
-- [Qu'est ce que la stratégie JBOD ?](section-003/003.q013.md)
-- [Qu'est ce qu'un disque SSD ?](section-003/003.q014.md)
-- [Qu'est ce qu'un disque M.2 ?](section-003/003.q015.md)
+- [Quelle est la différence entre SATA et IDE ?](003/003.q001.md)
+- [Comment booter sur le deuxième disque dur IDE ?](003/003.q002.md)
+- [Comment formater un disque dur ?](003/003.q003.md)
+- [Comment résoudre le problème d'un disque dur "SATA" non reconnu ?](003/003.q004.md)
+- [Comment effectuer un transfert de disque dur à disque dur ?](003/003.q005.md)
+- [Qu'est ce qu'un RAID ?](003/003.q006.md)
+- [Qu'est ce que la stratégie RAID 0 ?](003/003.q007.md)
+- [Qu'est ce que la stratégie RAID 1 ?](003/003.q008.md)
+- [Qu'est ce que la stratégie RAID 5 ?](003/003.q009.md)
+- [Qu'est ce que la stratégie RAID 6 ?](003/003.q010.md)
+- [Qu'est ce que la stratégie RAID 10 ?](003/003.q011.md)
+- [Qu'est ce que la stratégie RAID F1 ?](003/003.q012.md)
+- [Qu'est ce que la stratégie JBOD ?](003/003.q013.md)
+- [Qu'est ce qu'un disque SSD ?](003/003.q014.md)
+- [Qu'est ce qu'un disque M.2 ?](003/003.q015.md)
 
 ## Réseau
 
-- [Quelle est la différence entre Hub et Switch ?](section-004/004.q001.md)
-- [Quelle est la différence entre un switch managé et non managé ?](section-004/004.q002.md)
-- [Qu'est-ce que le POE ?](section-004/004.q003.md)
+- [Quelle est la différence entre Hub et Switch ?](004/004.q001.md)
+- [Quelle est la différence entre un switch managé et non managé ?](004/004.q002.md)
+- [Qu'est-ce que le POE ?](004/004.q003.md)
 
 ## Divers
 
-- [Dois-je enlever la batterie de mon PC portable lorsque ce celui-ci est connecté au secteur?](section-005/005.q001.md)
-- [Qu'est ce qu'un micrologiciel et à quoi sert-il ?](section-005/005.q002.md)
-- [Quels sont les différents types d'écran existants ?](section-005/005.q003.md)
-- [Comment nettoyer un écran plasma ?](section-005/005.q004.md)
-- [Comment changer l'affectation d'une touche du clavier par une autre ?](section-005/005.q005.md)
-- [Que faire en cas de "Power Calibration Error" durant une gravure ?](section-005/005.q006.md)
+- [Dois-je enlever la batterie de mon PC portable lorsque ce celui-ci est connecté au secteur?](005/005.q001.md)
+- [Qu'est ce qu'un micrologiciel et à quoi sert-il ?](005/005.q002.md)
+- [Quels sont les différents types d'écran existants ?](005/005.q003.md)
+- [Comment nettoyer un écran plasma ?](005/005.q004.md)
+- [Comment changer l'affectation d'une touche du clavier par une autre ?](005/005.q005.md)
+- [Que faire en cas de "Power Calibration Error" durant une gravure ?](005/005.q006.md)
