@@ -104,6 +104,9 @@ licence: CC-BY-SA-4.0
 - [Quelle est la différence entre Hub et Switch ?](004/004.q001.md)
 - [Quelle est la différence entre un switch managé et non managé ?](004/004.q002.md)
 - [Qu'est-ce que le POE ?](004/004.q003.md)
+- [Quels câbles faut t-il pour de l'Ethernet 2.5 Gbps/s ?](004/004.q004.md)
+- [Quels câbles faut t-il pour de l'Ethernet 5 Gbps/s ?](004/004.q005.md)
+- [Quels câbles faut t-il pour de l'Ethernet 10 Gbps/s ?](004/004.q006.md)
 
 ## Divers
 
