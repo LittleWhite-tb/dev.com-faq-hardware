@@ -38,7 +38,7 @@ entete:
         page: FAQ Hardware de Developpez.com
         article: FAQ Hardware
     date: 2007-09-01
-    miseajour: 2020-02-10
+    miseajour: 2025-05-28
     licauteur: Developpez
     lictype: 3
     licannee: 2020
@@ -83,21 +83,29 @@ licence: CC-BY-SA-4.0
 
 ## Disque dur
 
-- [Quelle est la différence entre SATA et IDE ?](003/003.q001.md)
-- [Comment booter sur le deuxième disque dur IDE ?](003/003.q002.md)
-- [Comment formater un disque dur ?](003/003.q003.md)
-- [Comment résoudre le problème d'un disque dur "SATA" non reconnu ?](003/003.q004.md)
-- [Comment effectuer un transfert de disque dur à disque dur ?](003/003.q005.md)
-- [Qu'est ce qu'un RAID ?](003/003.q006.md)
-- [Qu'est ce que la stratégie RAID 0 ?](003/003.q007.md)
-- [Qu'est ce que la stratégie RAID 1 ?](003/003.q008.md)
-- [Qu'est ce que la stratégie RAID 5 ?](003/003.q009.md)
-- [Qu'est ce que la stratégie RAID 6 ?](003/003.q010.md)
-- [Qu'est ce que la stratégie RAID 10 ?](003/003.q011.md)
-- [Qu'est ce que la stratégie RAID F1 ?](003/003.q012.md)
-- [Qu'est ce que la stratégie JBOD ?](003/003.q013.md)
-- [Qu'est ce qu'un disque SSD ?](003/003.q014.md)
-- [Qu'est ce qu'un disque M.2 ?](003/003.q015.md)
+- [Qu'est-ce que Serial ATA (SATA) ?](003/003.q001.md)
+- [Qu'est-ce que Serial Attached SCSI (SAS) ?](003/003.q002.md)
+- [Qu’est-ce que Small Computer System Interface (SCSI) ?](003/003.q003.md)
+- [Quelle est la différence entre SATA et IDE ?](003/003.q004.md)
+- [Qu'est-ce qu'un Network Attached Storage (NAS) ?](003/003.q005.md)
+- [Qu’est-ce que Storage Area Network (SAN) ?](003/003.q006.md)
+- [Qu'est ce qu'un disque SSD ?](003/003.q007.md)
+- [Qu'est ce qu'un disque M.2 ?](003/003.q008.md)
+- [Comment booter sur le deuxième disque dur IDE ?](003/003.q009.md)
+- [Comment formater un disque dur ?](003/003.q010.md)
+- [Comment résoudre le problème d'un disque dur "SATA" non reconnu ?](003/003.q011.md)
+- [Comment effectuer un transfert de disque dur à disque dur ?](003/003.q012.md)
+
+### Redundant Array of Independent Disks (RAID)
+
+- [Qu'est ce qu'un RAID ?](003-001/003.q001.md)
+- [Qu'est ce que la stratégie RAID 0 ?](003-001/003.q002.md)
+- [Qu'est ce que la stratégie RAID 1 ?](003-001/003.q003.md)
+- [Qu'est ce que la stratégie RAID 5 ?](003-001/003.q004.md)
+- [Qu'est ce que la stratégie RAID 6 ?](003-001/003.q005.md)
+- [Qu'est ce que la stratégie RAID 10 ?](003-001/003.q006.md)
+- [Qu'est ce que la stratégie RAID F1 ?](003-001/003.q007.md)
+- [Qu'est ce que la stratégie JBOD ?](003-001/003.q008.md)
 
 ## Réseau
 
@@ -110,8 +118,9 @@ licence: CC-BY-SA-4.0
 
 ## Connectiques
 
-- [Quels sont les débits des connectiques USB ?](005/005.q001.md)
-- [Quels sont les débits des connectiques Thunderbolt ?](005/005.q002.md)
+- [Qu'est-ce que PCI Express (PCIe) ?](005/005.q001.md)
+- [Quels sont les débits des connectiques USB ?](005/005.q002.md)
+- [Quels sont les débits des connectiques Thunderbolt ?](005/005.q003.md)
 
 ## Divers
 
